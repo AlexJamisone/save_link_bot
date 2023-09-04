@@ -1,4 +1,2 @@
-/storage/*
-!/storage/files
-!/storage/sqlite
-!/storage/storage.go
+*.exe
+/data
